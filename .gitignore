@@ -54,8 +54,7 @@ playground.xcworkspace
 # Carthage/Checkouts
 
 Carthage/Build
-
-# fastlane
+Carthage/Checkouts
 #
 # It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
 # screenshots whenever they are needed.
